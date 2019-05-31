@@ -1,0 +1,36 @@
+        body{
+            padding: 25px;
+        }
+
+        .huff{
+            color:green;
+        }
+        
+        .left{
+           float:left;
+           margin-right:30px;
+           
+        }
+
+        .right{
+            float:right;
+            margin-left:25px;
+         }
+
+         p{
+            text-align: justify;
+          }
+
+          sub{
+              font-weight:700;
+              color:blue;
+              font-style:italic;
+          }
+
+          i{
+            color:blue; 
+          }
+
+          em{
+              font-weight:700;
+          }
